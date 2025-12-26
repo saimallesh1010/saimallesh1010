@@ -1,4 +1,4 @@
-# Hi, I’m Sai Mallesh 👋  
+# Hi, I’m Sai Mallesh 
 ### Full-Stack Software Engineer
 
 I’m a Full-Stack Software Engineer who builds complete, production-ready web applications.
