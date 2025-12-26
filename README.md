@@ -6,19 +6,23 @@ My experience spans frontend development, backend services, and deployment workf
 ## What I Work With
 
 **Languages**  
-Java • JavaScript • TypeScript • Python
+Java · JavaScript · TypeScript · Python
 
 **Frontend**  
-React • Angular • HTML • CSS
+React · Angular · HTML · CSS
 
 **Backend**  
-Spring Boot • Node.js • REST APIs • Microservices
+Spring Boot · Node.js · REST APIs · Microservices
 
 **Databases**  
-PostgreSQL • MySQL • MongoDB
+PostgreSQL · MySQL · MongoDB
+
+**AI / Machine Learning / Deep Learning**  
+Python · TensorFlow · Deep Learning · Image Classification · AI Model Inference · ML Pipelines
 
 **Cloud & DevOps**  
-AWS • GCP • Docker • CI/CD (GitHub Actions)
+AWS · GCP · Docker · CI/CD (GitHub Actions)
+
 ## Selected Projects
 
 - **CollabSync** – Full-stack collaboration platform with authentication, file uploads, and cloud deployment  
