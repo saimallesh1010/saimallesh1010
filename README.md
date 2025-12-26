@@ -20,3 +20,9 @@ PostgreSQL • MySQL • MongoDB
 
 **Cloud & DevOps**  
 AWS • GCP • Docker • CI/CD (GitHub Actions)
+## Selected Projects
+
+- **CollabSync** – Full-stack collaboration platform with authentication, file uploads, and cloud deployment  
+- **Bird Identifier App** – Image classification application with a React frontend and backend inference APIs  
+- **Essay Editor** – TypeScript-based web editor focusing on clean UI and state management
+
