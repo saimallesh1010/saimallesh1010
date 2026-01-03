@@ -12,7 +12,7 @@ Java · JavaScript · TypeScript · Python
 React · Angular · HTML · CSS
 
 **Backend**  
-Spring Boot · Node.js · REST APIs · Microservices
+Spring Boot · Node.js · REST APIs ·Fast API ·Microservices
 
 **Databases**  
 PostgreSQL · MySQL · MongoDB
